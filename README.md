@@ -12,11 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thanhloc81&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhloc81&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thanhloc81&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thanhloc81&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/thanhloc81/VN30-Stock-Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/thanhloc81/Customer-segmentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/thanhloc81/Dashboard-support-Market-Expansion-Strategy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhloc81&icon=0&color=0)](https://visitcount.itsvg.in)
