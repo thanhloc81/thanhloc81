@@ -15,5 +15,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=Customer-segmentation&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/Customer-segmentation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=Dashboard-support-Market-Expansion-Strategy&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/Dashboard-support-Market-Expansion-Strategy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=SQL-Project-Bicycles-Practise&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/SQL-Project-Bicycles-Practise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=RFM-MODEL-PROJECT&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/RFM-MODEL-PROJECT)
 
 ---
