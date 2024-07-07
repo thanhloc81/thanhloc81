@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m **Thanh Loc**<br>👀 I'm keen on analyzing and visualizing data. Currently, I'm a student at the University of Economics and Laws pursuing a bachelor's degree in ecommerce.<br>📫 You can reach me via email at tloc.contact@gmail.com or connect with me on LinkedIn.<br><br>
+👋 Hi, I’m **Thanh Loc**<br>👀 I am deeply passionate about data-related tasks, particularly in Data Analyst. Experienced in transforming, organizing, creating dashboards and analyzing data to extract actionable insights utilizing Excel, SQL, R, Python, and Power BI. Currently, I'm a student at the University of Economics and Laws pursuing a bachelor's degree in Ecommerce.
 
+<br>📫 You can reach me via email at tloc.contact@gmail.com or connect with me on LinkedIn.<br><br>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thanh.loc.50999405/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ledacthanhloc/) 
@@ -16,5 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=Dashboard-support-Market-Expansion-Strategy&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/Dashboard-support-Market-Expansion-Strategy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=SQL-Project-Bicycles-Practise&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/SQL-Project-Bicycles-Practise)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=RFM-MODEL-PROJECT&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/RFM-MODEL-PROJECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=Future-Retail-Sales-Analysis&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/Future-Retail-Sales-Analysis)
 
 ---
