@@ -17,7 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=Dashboard-support-Market-Expansion-Strategy&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/Dashboard-support-Market-Expansion-Strategy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=SQL-Project-Bicycles-Practise&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/SQL-Project-Bicycles-Practise)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=RFM-MODEL-PROJECT&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/RFM-MODEL-PROJECT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=Predicting-the-Closing-Price-of-ACB&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/Predicting-the-Closing-Price-of-ACBs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=Predicting-the-Closing-Price-of-ACB&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/Predicting-the-Closing-Price-of-ACB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhloc81&repo=Future-Retail-Sales-Analysis&theme=blueberry&hide_border=false&card_width=500&show_icons=True)](https://github.com/thanhloc81/Future-Retail-Sales-Analysis)
 
 
